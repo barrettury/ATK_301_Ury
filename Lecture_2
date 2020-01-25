@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title> Lecture 1 </title>
+  </head>
+  <body>
+    <h1>Lecture 1</h1>
+
+    <p><a href="index.html">This is the link text.</a></p>
+    <p><a href="https://www.ilstu.edu" target="_blank" >Illinois State University</a></p>
+    <p> Paragraph<p/>
+  <body/>
+</html>
