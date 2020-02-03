@@ -1,0 +1,22 @@
+p {
+  background-color: #ff9900;
+}
+a:link {
+ color: #ff0000;
+ text-decoration: none;
+}
+a:hover {
+ color: #00ff00;
+ text-decoration: underline;
+}
+h1 {
+  color: #E79191;
+}
+
+#rickismakingmemakeweirdwebsites {
+  background-color: #0000ff;
+  color: #ffffff;
+}
+.yellowbackground{
+background-color: yellow;
+}
