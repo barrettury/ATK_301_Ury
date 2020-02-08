@@ -1,0 +1,59 @@
+body{
+  font-family: sans-serif;
+  background-image: url(images/Scared_Bernie.jpg);
+  background-repeat:repeat-y;
+  background-position: center center;
+}
+
+main{
+color: #ffff00;
+background-color: #0000ff;
+}
+header{
+color: orange;
+font-style: italic;
+font-weight: normal;
+}
+nav{
+
+
+}
+footer{
+color: #00ff00;
+background-color: #ffff00;
+}
+.spanstyle{
+  color: #6a0dad;
+  background-color: #ffffff;
+}
+#tkygh{
+  color: #00ff00;
+  background-color: #6a0dad;
+}
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:active {
+ color: #6a0dad;
+}
+
+a:hover {
+ color: #ffff00;
+}
+#pepe{
+  text-align:center;
+}
+.textJustify
+{
+text-align: justify;
+}
+.imag{
+  border: 5px solid #000000;
+  padding: 5px;
+  background-color: #ffffff;
+}
