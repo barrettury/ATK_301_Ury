@@ -1,0 +1,36 @@
+#rwed{
+ color: red;
+}
+#gween{
+  background-color: #33ffaa
+}
+.spandex{
+ color: orange;
+}
+header{
+background-color: #0066ff;
+}
+h1{
+  color: #ffffff;
+}
+h2{
+  color: #0000ff
+}
+h3{
+  background-color: yellow;
+}
+h4{
+  color: yellow;
+  background-color: green;
+}
+h5{
+  color: purple;
+}
+a:link {
+ color: #00ff00;
+ text-decoration: none;
+}
+a:hover {
+ color: #ff0000;
+ text-decoration: underline;
+}
