@@ -1,0 +1,113 @@
+body{
+  background-image: url(a62.png);
+}
+#thepage{
+  margin: 1em auto;
+  width: 960px;
+  background-color: white;
+  display: grid;
+  grid-template-rows: 100px auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+h1{
+  margin: 10px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+  font-family: Helvetica;
+  font-weight: normal;
+  grid-column: span 4;
+
+
+}
+.Wall{
+  width: 400px;
+  display: inline-block;
+  border: 3px solid black;
+  padding: 5px;
+  grid-column: span 2;
+  grid-row: span 2;
+  margin: 0px;
+}
+
+ul{
+  width: 250px;
+  display: inline-block;
+  font-family: Helvetica;
+  list-style-type: none;
+  grid-row: span 3;
+
+}
+li{
+  background-color: red;
+  margin: 10px;
+}
+li a {
+padding: 10px;
+display: block!important;
+font-family: Helvetica!important;
+text-decoration: none!important;
+color: white!important;
+}
+li a:hover{
+background-color: darkred;
+text-decoration: none;
+}
+h2{
+  font-family: Helvetica;
+  border-bottom: 2px solid black;
+  height: 40px;
+  grid-column: span 3;
+
+}
+p{
+
+}
+#nacho{
+  font-weight: bold;
+  font-family: Georia;
+  text-align: justify;
+  margin-right: 5px;
+  margin-bottom: 0px;
+}
+.salsa{
+  margin-top: 0px;
+  text-align: left;
+  grid-column: span 4;
+  float: right;
+}
+a{
+color: red;
+text-decoration: none;
+font-weight: bold;
+
+}
+a:hover{
+  text-decoration: underline;
+  color: #134cfb;
+}
+footer{
+text-align: center;
+color: white;
+background-color: red;
+border: 2px solid black;
+grid-column: span 4;
+font-family: Verdana!important
+font-style:italic;
+}
+.Bernadetta{
+  display: inline-grid;
+  grid-column: span 1;
+  width: 300px;
+  margin-right: 0px;
+  background-color: #D4715B;
+}
+.Bernie_Says{
+  color: purple;
+  grid-column: span 3;
+  background-color: #D4715B!important;
+  margin: 40px;
+  padding: 10px;
+  border: 10px solid darkred;
+  text-align: center;
+}
