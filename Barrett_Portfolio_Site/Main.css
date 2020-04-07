@@ -23,7 +23,6 @@ h3{
 
 }
 img{
-  width: 100px;
   grid-column: span 1;
   padding: 20px;
   margin: 0px;
