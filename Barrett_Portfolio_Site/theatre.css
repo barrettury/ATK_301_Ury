@@ -1,15 +1,6 @@
 body{
   background-image: url(Bernie_Pre_Tea2.jpg);
 }
-
-
-.berniebox{
-  display: grid;
-  width: 800px;
-  margin: 1em auto;
-  background-color: #65318F;
-  grid-template-columns: 400px, 400px, 400px;
-}
 h1{
   font-weight: normal;
   font-size: 100px;
@@ -19,89 +10,49 @@ h1{
   text-align: center;
   border: 2px solid black;
   font-family: papyrus;
+  grid-column: span 3;
 }
 h2{
-  margin: 0px;
-  padding: none;
-  font-family: times-new-roman;
-  color: white;
+  padding: 0px;
+  font-size: 45;
+  color: pink;
   text-align: center;
+  font-family: papyrus;
+  grid-column: span 3;
 }
-.home{
-  width: 60px;
-  text-decoration: none;
-  color: white;
-  margin: 0px 10px;
-  padding: 10px 80px;
-  border: 2px solid black;
-  grid-column: span 1;
-  background-color:#33ACE0;
-  display: inline-block;
-}
-.home:hover{
-  background-color: #5B98D4;
-}
-.audio{
-  width: 60px;
-  text-decoration: none;
-  color: white;
-  margin: 0px 10px;
-  padding: 10px 80px;
-  border: 2px solid black;
-  grid-column: span 1;
-  background-color: #EE5B30;
-  display: inline-block;
-
-}
-.audio:hover{
-  background-color: #F39804;
-}
-.theatre{
-  width: 60px;
-  text-decoration: none;
-  color: white;
-  margin: 0px 10px;
-  padding: 10px 80px;
-  border: 2px solid black;
-  grid-column: span 1;
-  background-color: #2F3590;
-  display: inline-block;
-}
-.theatre:hover
-{
-background-color: #1913BD;
-}
-.YouTube{
-  width: 60px;
-  text-decoration: none;
-  color: white;
-  margin: 0px 10px;
-  padding: 10px 80px;
-  border: 2px solid black;
-  grid-column: span 1;
-  background-color: #FC0D1B;
-  display: inline-block;
-}
-.YouTube:hover{
-  background-color: #C10101;
-}
-h3{
+#crazyheader{
   font-size: 40;
   color: white;
   text-align: center;
   font-family: papyrus;
+  grid-column: span 3;
 }
-p{
+#crazy4u{
   text-align: center;
   font-family: times-new-roman;
   color: white;
+  grid-column: span 2;
+
 }
-footer{
-font-size: 6;
-  text-align: right;
+.crazypic{
+  width: 400px;
+}
+
+#cabheader{
+  font-size: 40;
+  color: white;
+  text-align: center;
+  font-family: papyrus;
+  grid-column: span 3;
+}
+#cabaret{
+  text-align: center;
   font-family: times-new-roman;
-  color: #9224B2;
+  color: white;
+  grid-column: span 2;
+
+
 }
-footer a:hover{
-  color: #E8A7FA;
+.cabpic{
+  width: 400px;
 }
