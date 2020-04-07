@@ -14,13 +14,19 @@ h1{
 }
 
 h3{
-  grid-column: span 3;
+  grid-column: span 2;
   font-size: 40;
   color: white;
   text-align: center;
   font-family: papyrus;
   display: inline;
 
+}
+img{
+  width: 100px;
+  grid-column: span 1;
+  padding: 20px;
+  margin: 0px;
 }
 p{
   grid-column: span 3;
