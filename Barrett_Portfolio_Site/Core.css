@@ -77,10 +77,13 @@ background-color: #1913BD;
 footer{
 font-size: 6;
   text-align: right;
-  font-family: times-new-roman;
+  text-decoration: none;
+  font-family: 'Dancing Script', cursive;
   color: #9224B2;
 grid-column: span 3;
 }
 footer a:hover{
   color: #E8A7FA;
+  text-decoration: none;
+
 }

@@ -35,14 +35,7 @@ p{
 .subscribe:hover{
   color: #FF9A9A;
 }
-.fab fa-youtube{
-  display: inline;
-  text-decoration: none;
-  color: #FC0D1B;
-}
-.fab fa-youtube:hover{
-  color: #FF9A9A;
-}
+
 .twitter{
   text-decoration: none;
   color: #2AA3EF;
@@ -50,15 +43,7 @@ p{
 .twitter:hover{
   color: #73FFFF;
 }
-.fab fa-twitter{
-  display: inline;
-  text-decoration: none;
-  color: #2AA3EF;
-}
 
-.fab fa-twitter:hover{
-  color: #73FFFF;
-}
 .twitch{
   text-decoration: none;
   color: #BC73FF;
@@ -66,18 +51,16 @@ p{
 .twitch:hover{
   color: #EA73FF;
 }
-.fab fa-twitch{
-  display: inline;
-  text-decoration: none;
-  color: #BC73FF;
-}
-.fab fa-twitch:hover{
-  color: #EA73FF;
-}
+
 #soc{
+  display: inline;
   text-align: center;
   padding: 0px, 100px;
   grid-column: span 2;
+  color: black;
+}
+#soc:hover{
+  color: white;
 }
 .banette{
   grid-column: span 1;
