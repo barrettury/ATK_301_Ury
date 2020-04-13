@@ -19,6 +19,8 @@ h2{
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
+  text-shadow: 2px 2px 10px pink;
+
 }
 #crazyheader{
   font-size: 40;
@@ -26,16 +28,18 @@ h2{
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
+  text-shadow: 2px 2px 10px #b8b8b8;
+
 }
 #crazy4u{
   text-align: center;
   font-family: times-new-roman;
   color: white;
   grid-column: span 2;
-
 }
 .crazypic{
   width: 400px;
+  border-radius: 10px;
 }
 
 #cabheader{
@@ -44,6 +48,7 @@ h2{
   text-align: center;
   font-family: papyrus;
   grid-column: span 3;
+  text-shadow: 2px 2px 10px #b8b8b8;
 }
 #cabaret{
   text-align: center;
@@ -55,4 +60,6 @@ h2{
 }
 .cabpic{
   width: 400px;
+  border-radius: 10px;
+
 }

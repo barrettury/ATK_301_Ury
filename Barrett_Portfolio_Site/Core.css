@@ -6,6 +6,7 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 nav{
+  text-shadow: 5px 5px 10px #b8b8b8;
   font-size: 22;
   grid-column: span 3;
   margin: 0px;
