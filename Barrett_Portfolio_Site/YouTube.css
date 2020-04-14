@@ -59,7 +59,7 @@ p{
   grid-column: span 2;
   color: black;
 }
-#soc:hover{
+#soc a:hover{
   color: white;
 }
 .banette{
