@@ -1,10 +1,8 @@
 function setup(){
-  createCanvas(400,400);
+  createCanvas(1200,50);
 }
 function draw(){
   textSize(15);
-  background(245);
-  fill(55,150,250);
-  center(5);
-  rect(0,0,30,30);
+  fill(61,13,88);
+  rect(400,30,400,30);
 }
