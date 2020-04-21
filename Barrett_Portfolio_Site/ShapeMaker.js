@@ -6,5 +6,5 @@ function draw(){
   background(245);
   fill(55,150,250);
   center(5);
-  pent(250,220,65,1);
+  rect(0,0,30,30);
 }
