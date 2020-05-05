@@ -62,13 +62,14 @@ p{
 #soc a:hover{
   color: white;
 }
-.banette{
+.chanicon{
+  width: 400px;
   grid-column: span 1;
   margin: 0px;
   padding: 10px;
   background-color: purple;
 
 }
-.banette:hover{
+.chanicon:hover{
   background-color: #A660E7;
 }
